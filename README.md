@@ -1,4 +1,4 @@
-# NewHopeBootcamp
+# Peng Chan Boot camp
 
 ## Empowering the next generation to make a positive impact through an establishment of foundational skills.
 
